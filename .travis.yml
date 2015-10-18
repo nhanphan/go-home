@@ -10,3 +10,6 @@ deploy:
   keyfile: deploy.json
   default: true
   project: echo-1102
+
+notifications:
+  email: false
