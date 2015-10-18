@@ -2,7 +2,7 @@
 
 # application is mandatory
 # later on the web, we might use some other name
-application: echo
+# application: echo
 
 # version is mandatory
 # version: 1-0
