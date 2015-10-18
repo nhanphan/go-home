@@ -5,7 +5,7 @@
 application: echo
 
 # version is mandatory
-version: 1-0
+# version: 1-0
 
 # runtime is mandatory
 runtime: go
